@@ -5,7 +5,7 @@ This repository is a snapshot of Geoviosto `tools/info` derived from the develop
 [geovisto/geovisto-map.](https://github.com/geovisto/geovisto-map)
 
 
-![sample]()
+![sample](https://raw.githubusercontent.com/geovisto/geovisto-info/master/sample.png)
 
 ## Usage
 
